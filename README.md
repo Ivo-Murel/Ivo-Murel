@@ -10,6 +10,8 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat&logo=googleagemini&logoColor=white)
  
 - **Andmebaasid:** PostgreSQL, Supabase
 - **Programmeerimiskeeled:** Python (pandas, plotly)
