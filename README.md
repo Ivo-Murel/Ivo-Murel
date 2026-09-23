@@ -11,7 +11,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![NotebookLM](https://img.shields.io/badge/NotebookLM-Expert-1B6EF3?style=flat)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-1B6EF3?style=flat)
  
 - **Andmebaasid:** PostgreSQL, Supabase
 - **Programmeerimiskeeled:** Python (pandas, plotly)
