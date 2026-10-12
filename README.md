@@ -24,7 +24,7 @@
  
 ## 📫 Kontakt
  
-- **Email:** imurel@gmail.com
+- **Email:** murelivo@gmail.com
 - **LinkedIn:** [linkedin.com/in/ivo-murel](https://www.linkedin.com/in/ivo-murel/)
  
 ---
