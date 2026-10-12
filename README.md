@@ -1,6 +1,6 @@
 # Tere! 👋 Mina olen Ivo Murel
  
-## 🎯 Andmeanalüütiku Karjääri Algus
+## 🎯 Andmeanalüütiku koolitus
  
 Õpin hetkel **DACA (Data Analyst Career Accelerator)** programmis ja ehitan oma esimest professionaalset portfooliot.
  
