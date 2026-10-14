@@ -2,7 +2,7 @@
  
 ## 🎯 Andmeanalüütiku koolitus
  
-Õpin hetkel **DACA (Data Analyst Career Accelerator)** programmis ja ehitan oma esimest professionaalset portfooliot.
+Õpin **DACA (Data Analyst Career Accelerator)** programmis ja ehitan oma esimest professionaalset portfooliot.
  
 ## 🛠️ Tehnoloogiad, mida õpin
  
